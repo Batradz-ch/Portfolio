@@ -4,12 +4,19 @@
 ## Обо мне 
 
 
-Привет! Меня зовут Батрадз, я начинающий тестировщик. <br>
+Привет! Меня зовут Батрадз, я тестировщик. <br> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 
 
 ## - :zap: Навыки и технологии
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+
 ``Jira``,``qase.io``,``SQL``,`` Postman``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``Charles``, ``Chrome DevTools``.
 
